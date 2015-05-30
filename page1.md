@@ -1,3 +1,7 @@
+---
+title: Document Center
+---
+
 Page 1
 ===============
 
